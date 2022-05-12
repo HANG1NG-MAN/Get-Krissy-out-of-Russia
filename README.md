@@ -14,7 +14,7 @@
     <style>
       
       h1 {
-        color:BB146C; 
+        color:#BB146C; 
         font:palatino;
       }
       
