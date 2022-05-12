@@ -14,10 +14,13 @@
     <style>
       
       h1 {
-        color:#BB146C; 
-        font:palatino;
+        color:#551041; 
+        font-family:Garamond;
       }
       
+      h2 {
+        color:#BB146C;
+      }
     </style>
     
     
