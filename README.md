@@ -37,12 +37,14 @@
     </div>
     
     <div>
-      <p>Who is Kristiana Hansen? </p>
+      <p>Who is Kristina Hansen? </p>
       <p>A young, 22 year old trans woman living in Russia. Making her living with digital art, because working anywhere out in Russian society is simply not an option for her.
-      You can see the examples of her comissioned furry art on her twitter. </p> 
+      You can see the examples of her comissioned furry art on her twitter:</p> 
+      
+      <blockquote class="twitter-tweet"><p lang="en" dir="ltr">So... I think, since twitter is getting more attention from little me, it&#39;s time to post this thing!<br><br>I am an artist, and I take commissions UwU<br><br>My gallery: <a href="https://t.co/8kb63y4aW8">https://t.co/8kb63y4aW8</a><br><br>More details on FA. Approach me here or on discord: KrisH#4114 <a href="https://t.co/ALRxiAOCeX">pic.twitter.com/ALRxiAOCeX</a></p>&mdash; Kristina Hansen 🏳️‍⚧️ (@H41_14) <a href="https://twitter.com/H41_14/status/1417119165756977152?ref_src=twsrc%5Etfw">July 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       
       <p>What will the money go to?</p>
-      <p>Kristiana has right now 15 dollars to her name and two days of food - thanks to one of her comissions she was counting with for a month falling out. 
+      <p>Kristina has right now 15 dollars to her name and food for 2 days - thanks to one of her comissions she was counting with for a month falling out. 
         A small portion of money will therefore go to food, medication and living bills, to cover a bit of time till next pay. 
         But most importantly: leaving Russia is no small bussiness. The expenses to cover: </p>
       <ul>
