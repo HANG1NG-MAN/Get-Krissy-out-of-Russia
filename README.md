@@ -7,11 +7,14 @@
    Paleta stránky: 
   <color name="Magenta Dye" hex="BB146C" r="187" g="20" b="108" />
   <color name="Tyrian Purple" hex="551041" r="85" g="16" b="65" />
-  <color name="Tuscany" hex="C89EA1" r="200" g="158" b="161" />
+  <color hex="F3E5CB" />
   <color name="Blast Off Bronze" hex="B77460" r="183" g="116" b="96" />
   <color name="Redwood" hex="A34F46" r="163" g="79" b="70" />
   -->
     <style>
+    body {
+  background-color:#F3E5CB;
+}
       
       h1 {
         color:#551041; 
@@ -20,6 +23,7 @@
       
       h2 {
         color:#BB146C;
+        font-family:Garamond;
       }
     </style>
     
